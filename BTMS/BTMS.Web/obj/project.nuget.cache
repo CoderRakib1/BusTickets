@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "phaLl9svZdXJl3EKV+6LZuc1f8J87g12H0oCAVcXg1pEFVu5HQTc0Sfq+9iOmX3esOlbezl0WwZuIQbtWH9Izg==",
+  "success": true,
+  "projectFilePath": "C:\\BTMS\\BTMS\\BTMS.Web\\BTMS.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PAVEL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

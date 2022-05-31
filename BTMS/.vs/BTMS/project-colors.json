@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "460d712f-ca5c-4e9b-887b-fddc9dea249e": {
+      "ProjectGuid": "460d712f-ca5c-4e9b-887b-fddc9dea249e",
+      "DisplayName": "BTMS.Data",
+      "ColorIndex": 0
+    },
+    "c9d04f18-9341-4f86-a03c-5fe2ce8edfef": {
+      "ProjectGuid": "c9d04f18-9341-4f86-a03c-5fe2ce8edfef",
+      "DisplayName": "BTMS.DataLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
